@@ -1,0 +1,10 @@
+.idea/*
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG
+*.csv
+*.pdf
+*.png
+*.pyc
+*.~lock*
