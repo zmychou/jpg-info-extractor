@@ -179,7 +179,7 @@ def load_image(path):
 
 def main():
     global IMAGE
-    IMAGE = load_image('061541.JPG')
+    IMAGE = load_image('1424054533.jpg')
     if not find_marker(markers['SOI'], 0) :
         print('Given image seems not a JPEG image.')
         return
